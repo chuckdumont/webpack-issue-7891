@@ -1,5 +1,4 @@
 (function(context, factory) {
-  "";
   'use strict';
 
   if (typeof define === 'function' && define.amd) {
